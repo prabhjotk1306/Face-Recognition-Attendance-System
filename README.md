@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 
 > ⚠️ **Note on dlib:**
->  Used pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.99-cp310-cp310-win_amd64.whl as installing directly was giving problems
+>  Used pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.99-cp310-cp310-win_amd64.whl if installing directly is giving problems
 
 ---
 
@@ -84,7 +84,7 @@ You should see a webcam window with detected faces and names. The script auto-lo
 
 ```
 Name,Time
-Modi,2025-07-27 20:43:15
+Mark,2025-07-27 20:43:15
 
 ```
 
